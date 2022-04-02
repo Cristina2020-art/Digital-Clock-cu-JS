@@ -1,1 +1,1 @@
-# Digital-Clock-cu-JS
+"# Digiital-Clock-with-JS" 
